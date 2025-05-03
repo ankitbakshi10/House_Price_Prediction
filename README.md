@@ -61,9 +61,9 @@ This project focuses on building a predictive model and deploying it as a web ap
 
 ## 📄 Report
 
-For detailed methodology, visuals, and analysis, refer to the [embed](https://drive.google.com/file/d/1_RWEvgfv49QUozgtusKomtyHehvGrNed/view?usp=sharing)[/embed]
+For detailed methodology, visuals, and analysis, refer to the [Report](https://drive.google.com/file/d/1_RWEvgfv49QUozgtusKomtyHehvGrNed/view?usp=sharing)
 
 ## 👥 Contributors
 
--Student Name: [@ankitbakshi10](https://github.com/ankitbakshi10)
--University: KIIT University
+- **Student Name** : [@ankitbakshi10](https://github.com/ankitbakshi10)
+- **University** : KIIT University
