@@ -65,5 +65,7 @@ For detailed methodology, visuals, and analysis, refer to the [Report](https://d
 
 ## 👥 Contributors
 
-- **Student Name** : [@ankitbakshi10](https://github.com/ankitbakshi10)
+- **Student Name** :-
+  1. [@ankitbakshi10](https://github.com/ankitbakshi10)
+  2. [@abir54](https://github.com/abir54)
 - **University** : KIIT University
